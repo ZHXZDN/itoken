@@ -10,7 +10,7 @@ spring:
       label: master
       server:
         git:
-          uri: git@github.com:ZHXZDN/itoken-config.git
+          uri: git@github.com:ZHXZDN/itoken.git
           search-paths: itoken-config/respo
           username: ZHXZDN
           password: a1215386652
